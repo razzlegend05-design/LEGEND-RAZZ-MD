@@ -1,4 +1,4 @@
-# WhatsApp Automation Tool - OLD-STUDIO
+# WhatsApp Automation Tool - LEGEND-RAZZ 🔥
 
 Professional WhatsApp Automation Tool with improved two-stage dashboard.
 
